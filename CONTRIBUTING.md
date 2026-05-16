@@ -26,7 +26,7 @@ Whether it's adding more absurd reasons, fixing bugs, or adding new languages â€
 ```bash
 # 1. Fork the repository
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/apologize-machine.git
+git clone https://github.com/thinhjojo/apologize-machine.git
 cd apologize-machine
 
 # 3. Create a virtual environment (optional but recommended)
@@ -103,7 +103,7 @@ A: Please don't. Just say "sorry" like a normal person.
 ## ðŸ“ž Contact
 
 - Issue Tracker: GitHub Issues
-- Email: absolutelynot@real-email.com
+- Email: thinhjojo@gmail.com
 - Support: Just remember things, it's not that hard
 
 ---
