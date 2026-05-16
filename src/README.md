@@ -20,7 +20,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/apologize-machine.git
+git clone https://github.com/thinhjojo/apologize-machine.git
 cd apologize-machine
 python3 apologize_machine.py
 ```
